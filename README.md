@@ -22,7 +22,7 @@
 `Vivado` `Quartus` `Keil` `Git` `GitHub` `Linux` `VS Code`
 
 ### 📌 Featured Project
-**[Compression-Aware Hybrid MAC Architecture for Systolic Arrays](https://github.com/systolicarray)**
+**[Compression-Aware Hybrid MAC Architecture for Systolic Arrays](https://github.com/arjunchenal/systolicarray)**
 Parameterizable 32×32 systolic-array accelerator in VHDL, verified with a UVM/SystemVerilog environment achieving full functional coverage, synthesized and placed-and-routed in 45nm (Synopsys DC + Cadence Innovus), with SAIF-based post-layout power analysis across three MAC architectures.
 
 📫 Reach me: arjun@uni-bremen.de | [LinkedIn](https://linkedin.com/in/arjun_chenal)
